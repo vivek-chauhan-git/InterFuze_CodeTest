@@ -7,3 +7,5 @@ There is 1 file for device details.
 There will be 2 files for data readings.
 
 Files to be put in Data folder of running project before running console application.
+
+Incase of error please fix the error mentioned in console and restart the application.
